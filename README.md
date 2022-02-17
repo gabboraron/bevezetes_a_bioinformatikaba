@@ -1,4 +1,4 @@
-# Bevezetés a bioionformatikába
+# Bevezetés a bioinformatikába
 ## 1. EA
 **bioinformatika**: számítógépes módszerek kifejlesztése alkalmazása a biológiai információ kezelésére és értelmezésére
 - biokémia alapok
