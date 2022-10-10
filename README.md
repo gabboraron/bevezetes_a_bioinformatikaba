@@ -128,5 +128,73 @@ eszközök:
 - [next generation sequencing](https://www.illumina.com/science/technology/next-generation-sequencing.html)
 - [single cell genomics](https://www.youtube.com/watch?v=yTl1Q0D7aZ0)
 
+# EA2
+# EA3
+# EA4 - [proteomika](https://hu.wikipedia.org/wiki/Proteomika) (fehérjék)
+Aminosavak - peptidkötés kialakulásánál víz kilépés van.
+
+áll:
+- karboxil csoport
+- amino csoport
+
+# EA5 - genomika
+Van sejtmag (eukarióta); nincs sejtmagja (prokarióta) -> az eukarióták bekebelezhetnek másokat
+
+Az eukaritóáknál a sejmaghártyán belül van a sejtmag main belül tárolódik az örökítőanyag. Az egysejtűek és többsejtűek között nagy különbség nincs e téren.
+
+![eukarióta](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Endomembrane_system_diagram_en.svg/500px-Endomembrane_system_diagram_en.svg.png)
+
+Testi sejtek (diploid): 2N elemmel, 1 apai és egy anyai kromszómaszerelvénnyel; képesek osztódni, önmagukat duplikálni, 1 sejtből 4 sejt lesz
+
+Ivarsejtek (haploid): 1N 1 kromoszómaszerelvény; felezik magukat 1 sejtből két sejt lesz
+
+![kromoszómák](https://cms.sulinet.hu/get/d/5fa650cf-8fc8-4619-80bb-65b50b264410/1/7/b/Normal/8gen03.jpg)
+
+tudásbázison az mberi szaporodás: https://tudasbazis.sulinet.hu/hu/termeszettudomanyok/biologia/biologia-8-evfolyam/az-ember-szaporodasa/az-emberi-oroklodes
+
+olvasnivaló: [Dawnkins - önző gén](https://www.libri.hu/konyv/richard_dawkins.az-onzo-gen--1.html)
+
+osztódás típusok:
+- mitózis: számtartó osztódás (identikus másolat)
+- amitózis: egysejtűeknél
+- mejózis: számfelező osztódás: mitózis + felezés
+
+![mitózis vs mejózis](https://slideplayer.hu/slide/2214695/8/images/12/Mei%C3%B3zis+Mit%C3%B3zis+1n+1n+1n+1n+DNS+megkett%C5%91z%C5%91d%C3%A9s+DNS+megkett%C5%91z%C5%91d%C3%A9s.jpg)
+
+sejthalál típusok:
+- [apoptózis](https://hu.wikipedia.org/wiki/Programozott_sejthal%C3%A1l) programozott sejthalál - egy jel hazására *pl égési sérülés* történik.
+- [nekrózis](https://hu.wikipedia.org/wiki/Apopt%C3%B3zis) 
 
 
+[Hiszton](https://hu.wikipedia.org/wiki/Hiszton)ok:
+
+![hiszton](https://www.termvil.hu/archiv/szamok/tv2017/tv1706/szabad1.jpg)
+
+- http://physiology.elte.hu/eloadas/kornyezet_egeszsegtan/KornyEgeszseg_6.pdf
+- https://www.termvil.hu/archiv/szamok/tv2017/tv1706/szabad.html
+
+A hisztonok nagy mennyiségben ugyanolyanok. Ezek tartják a DNSt feltekerve.
+
+kb 30.000 fehérjét ismerünk
+
+centrális dogma:
+- replikáció: DNS -> DNS
+- transzkripció: DNS -> RNS
+- transzláció: mRNS -> fehérje
+
+ennek ellentéte:
+- retrovírusok: RNS -> DNS
+- RNS vírusok: RNS -> RNS
+- Prionok: fehérje -> DNS felező részecske
+
+genetikai kód:
+- 3 db nukleinsav = 1 aminosav
+- 20 aminosavunk van de 4^3 = 64 aminosavat tudunk kódolni
+- de az értelmes kodonokból csak 61-et
+- 3 db nem értlemezhető kodon van : *stop kodon* 
+
+**DNS -> RNS**
+A->T -> U
+T->A 
+G->C
+C->G
