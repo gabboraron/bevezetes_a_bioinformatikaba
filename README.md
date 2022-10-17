@@ -193,8 +193,85 @@ genetikai kód:
 - de az értelmes kodonokból csak 61-et
 - 3 db nem értlemezhető kodon van : *stop kodon* 
 
-**DNS -> RNS**
-A->T -> U
-T->A 
-G->C
-C->G
+| **DNS -> RNS** |
+|:----:| 
+| A->T -> U |
+| T->A |
+| G->C |
+| C->G |
+
+
+# EA6 - A nukleinsavak
+
+A DNS 1,8 m hosszú zsineg.
+
+## A DNS szerkezete
+![DNS szerkezet nukleinsavak kötései](https://www.fontanus-freestyle.hu/wp-content/uploads/sites/5/2020/03/dns_2.jpg)
+
+bővebben: https://www.fontanus-freestyle.hu/2020/03/mi-a-dns-hogyan-mukodik-es-miert-erdekel-ez-egyaltalan/
+
+- pirimidin bázisú: citozin `C`, timin `T`
+- purin bázisú: adenin `A`, guanin `G`
+
+A hoszuk csak nagyjából egyezik meg ezért lesz helikálsi szerkezetű. A lánc széle pentóz cukor, és ehhez kaocsolódnak ezek a kötések.
+
+Az `A` a `T`el tud kötést kialakítani, kettes kötést, a `C` a `G`-vel hármas kötésben tud.
+
+![kötések](https://slideplayer.hu/slide/13345721/80/images/2/Ism%C3%A9tl%C3%A9s+%3A+A+DNS+szerkezete.jpg)
+
+bővebben: https://slideplayer.hu/slide/13345721/
+
+A DNS egységei: Adenozin trifoszfát, amikor ATP-t állítunk elő, ami energia átroló, ennek a felszabadulása, a foszfátok felszabadulása adja folyamatosan az energiát.
+
+![nukleozidok](https://upload.wikimedia.org/wikipedia/commons/5/56/Nucleotide_nucleoside_general_%28hun%29.png)
+
+A `T` és `C` egyenlő mennyiségű, és a`G` mennyisége egyenlő az `A`-val. **DE** `A+T` és `G+C` már nem egyenlő feltételenül.
+
+még: https://hu.koshachek.com/articles/dns-anatomia-es-elettan.html
+
+DNS szerkezetei:
+- elsődleges szerkezet: nukelinsav sorrendje
+- másodlagos szerkezet: helikális forma
+- harmadlagos szerkezet: hiszton korong
+- negyedleges szerkezet: kormoszómák?
+
+## [Human genome projekt](https://en.wikipedia.org/wiki/Human_Genome_Project)
+- https://www.genome.gov/human-genome-project
+- https://www.genome.gov/sites/default/files/media/files/2020-09/HGP_Timeline.pdf
+
+A DNS-t hőmérséklet növeléssel tudjuk szétválasztani, ekkor kettéválik és szétbontható, vagy hozzá adható. A helikális szerkezet szemikonzervatív, ami miatt a szerkezet megduplázható. Ami miatt a 3' ->5' irányban olvasunk, de 5' -> 3' irányba épül be. A template és az új szál anti paralel lefutású lesz. Ekkor  egy primert kell betenni, amitől képes lesz az új lekötésre. A legvégén az indító primer leválik és beépülhet egy új nukleotid.
+
+[Teloméra](https://en.wikipedia.org/wiki/Telomere) a DNS két végén van, de ez fogy ahogy a DNS szál újra és újra osztódik. Ezek védik a DNS-t a sejt osztódásakor. 
+
+![Telomere](https://www.frontiersin.org/files/Articles/630186/fgene-11-630186-HTML/image_m/fgene-11-630186-g001.jpg) ![Telomere](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41556-022-00842-x/MediaObjects/41556_2022_842_Fig1_HTML.png?as=webp)
+
+## Mutáció: 
+mutációk fajtái:
+- pontmutáció: SNP: 1 nukleotid hiba
+  - szinonim: fenntartja vagy megváltoztatja a funkciókat
+  - nem szinonim: fenntartja a funkciókat
+- törlődés
+- duplikáció
+- inverzió
+- beékelődés
+- transzlokáció
+
+![mutációk fajtái](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Mut%C3%A1ci%C3%B3T%C3%ADpusok.svg/250px-Mut%C3%A1ci%C3%B3T%C3%ADpusok.svg.png)
+
+Mutációk okai:
+- spontán mutáció
+- indukált mutáció
+  - ionizáló sugárzás
+  - antibiotikumok
+  - kemikáliák: akril festékek, azbeszt, műanyagok, kohósalak, tartósítószerek, dohányfüst
+
+Hibajavítások:
+- báziskivágások BER - egyetlen fehérjét tud észrevenni
+- nukleotid kivágó NER - 2-30 hosszot képes változtatni
+- össze nem illő párok - rekombináció
+
+![hibajavítás](https://4cdn.hu/kraken/image/upload/s--v5B91T7k--/c_limit,w_1160/6m4lOh8WskrACu9fs.jpeg)
+
+bővebben:
+http://eta.bibl.u-szeged.hu/5322/118/DNS%20hibajav%C3%ADt%C3%A1s_2020.pdf
+
