@@ -572,15 +572,27 @@ http://eta.bibl.u-szeged.hu/5322/118/DNS%20hibajav%C3%ADt%C3%A1s_2020.pdf
 # ZH Kerdesek
 
 1. Feherjek - Altalanos
-Mondj el mindent a feherjekrol  amit csak tudsz (minimum szint)
-1. Feherjek szerepe az elolenyekben?
-
+- Mondj el mindent a feherjekrol  amit csak tudsz (minimum szint)
+```
+H2N - CH - COOH
+       |    
+       R
+-COOH - karboxil csoport
+-NH2 - amino csoport
+-szénatom - alfahelyzetű
+-R valamilyen gyök
+```
+- Feherjek szerepe az elolenyekben?
+https://hu.khanacademy.org/science/biology/xd0add07ff39257dd:macromolecules/xd0add07ff39257dd:proteins-and-amino-acids/a/introduction-to-proteins-and-amino-acids
 - Feherjek felepitoegysegei?
+`COOH` karboxil csport és `NH2 - amino csoport`
 - Aminosavak altalanos szerkezeti keplete?
 - Aminosavak kotodese?
+`N` vagy `C` alapú
 - Feherjeterszerkezet szintjei?
+https://hu.khanacademy.org/science/biology/xd0add07ff39257dd:macromolecules/xd0add07ff39257dd:proteins-and-amino-acids/a/orders-of-protein-structure
 
-2. Feherjek/Nukleinsavak - Vizsgalatok
+2. [Feherjek/Nukleinsavak - Vizsgalatok](https://github.com/gabboraron/bevezetes_a_bioinformatikaba#m%C3%A1sodlagos-strukt%C3%BAra-pontoss%C3%A1g-m%C3%A9r%C3%A9se)
 - Milyen feherje  megismeresi metodikakat ismersz?
 - Fizikai jellemzok vizsgalata
 - Kemiai jellemzok vizsgalata
@@ -589,14 +601,17 @@ Mondj el mindent a feherjekrol  amit csak tudsz (minimum szint)
 
 3. Bioinformatika
 - Hol vannak, es mit tartalmaznak a nagyobb bioinformatikai adatbazisok a vilagban.
-- Sorolj fel legalabb harom file formatumot, es mond el a fobb jellemzoiket.
+  - struktúra adatbankok: SCOP, CATH
+  - fehérjeadatbázisok: Protein Data Bank (térszekrezet), Swiss - prot(ismert fehérjeszekvenciák adatbázisa)
+- [Sorolj fel legalabb harom file formatumot, es mond el a fobb jellemzoiket.](https://github.com/gabboraron/bevezetes_a_bioinformatikaba#file-form%C3%A1tumok)
 - Aminosav es nukleinsav kodolas? (Hogyan, miert es melyik szervezet, mi a jelkeszlet)
-- Feherjek masodlagos struktura joslas pontossaganak merese. (min 2 meroszam)
+- [Feherjek masodlagos struktura joslas pontossaganak merese. (min 2 meroszam)](https://github.com/gabboraron/bevezetes_a_bioinformatikaba#m%C3%A1sodlagos-strukt%C3%BAra-pontoss%C3%A1g-m%C3%A9r%C3%A9se)
 - Bioinformatika meghatarozas, teruletei.
 
 4. Nukleinsavak - DNS
 Mondj el mindent a DNS -rol amit csak tudsz (minimum szint):
-- Melyek a DNS alkotoelemei.
+https://www.youtube.com/watch?v=7Hk9jct2ozY&t=1s
+- [Melyek a DNS alkotoelemei.](https://github.com/gabboraron/bevezetes_a_bioinformatikaba#ea6---a-nukleinsavak)
 - Milyen terszerkezeteket vehet fel a DNS.
 - Milyen tipusu bazisok epitik fel.
 - Mi a szerepe
