@@ -455,7 +455,7 @@ osztódás típusok:
 
 sejthalál típusok:
 - [apoptózis](https://hu.wikipedia.org/wiki/Programozott_sejthal%C3%A1l) programozott sejthalál - egy jel hazására *pl égési sérülés* történik.
-- [nekrózis](https://hu.wikipedia.org/wiki/Apopt%C3%B3zis) 
+- [nekrózis](https://hu.wikipedia.org/wiki/Nekr%C3%B3zis)
 
 
 [Hiszton](https://hu.wikipedia.org/wiki/Hiszton)ok:
@@ -575,32 +575,32 @@ http://eta.bibl.u-szeged.hu/5322/118/DNS%20hibajav%C3%ADt%C3%A1s_2020.pdf
 Mondj el mindent a feherjekrol  amit csak tudsz (minimum szint)
 1. Feherjek szerepe az elolenyekben?
 
-2. Feherjek felepitoegysegei?
-3. Aminosavak altalanos szerkezeti keplete?
-4. Aminosavak kotodese?
-5. Feherjeterszerkezet szintjei?
+- Feherjek felepitoegysegei?
+- Aminosavak altalanos szerkezeti keplete?
+- Aminosavak kotodese?
+- Feherjeterszerkezet szintjei?
 
 2. Feherjek/Nukleinsavak - Vizsgalatok
-Milyen feherje  megismeresi metodikakat ismersz?
-1. Fizikai jellemzok vizsgalata
-2. Kemiai jellemzok vizsgalata
-3. Terszerkezet meghatarozas (pl:NMR, rtg)
-5. Mennyisegi meghatarozas (pl:MALDI)
+- Milyen feherje  megismeresi metodikakat ismersz?
+- Fizikai jellemzok vizsgalata
+- Kemiai jellemzok vizsgalata
+- Terszerkezet meghatarozas (pl:NMR, rtg)
+- Mennyisegi meghatarozas (pl:MALDI)
 
 3. Bioinformatika
-1. Hol vannak, es mit tartalmaznak a nagyobb bioinformatikai adatbazisok a vilagban.
-2. Sorolj fel legalabb harom file formatumot, es mond el a fobb jellemzoiket.
-3. Aminosav es nukleinsav kodolas? (Hogyan, miert es melyik szervezet, mi a jelkeszlet)
-4. Feherjek masodlagos struktura joslas pontossaganak merese. (min 2 meroszam)
-5. Bioinformatika meghatarozas, teruletei.
+- Hol vannak, es mit tartalmaznak a nagyobb bioinformatikai adatbazisok a vilagban.
+- Sorolj fel legalabb harom file formatumot, es mond el a fobb jellemzoiket.
+- Aminosav es nukleinsav kodolas? (Hogyan, miert es melyik szervezet, mi a jelkeszlet)
+- Feherjek masodlagos struktura joslas pontossaganak merese. (min 2 meroszam)
+- Bioinformatika meghatarozas, teruletei.
 
 4. Nukleinsavak - DNS
 Mondj el mindent a DNS -rol amit csak tudsz (minimum szint):
-1. Melyek a DNS alkotoelemei.
-2. Milyen terszerkezeteket vehet fel a DNS.
-3. Milyen tipusu bazisok epitik fel.
-4. Mi a szerepe
-5. Hol talalhato fokent eukariotakban
+- Melyek a DNS alkotoelemei.
+- Milyen terszerkezeteket vehet fel a DNS.
+- Milyen tipusu bazisok epitik fel.
+- Mi a szerepe
+- Hol talalhato fokent eukariotakban
 
 Egyszeru kerdesek / Szotar
 valaszolj roviden (max. ket mondatban) mit takarnak az alabbi fogalmak:
@@ -664,56 +664,55 @@ valaszolj roviden (max. ket mondatban) mit takarnak az alabbi fogalmak:
 53.	kromatigráfia: anyagszétválasztási módszer
 54.	frakció
 55.	kötődési affinitás: sok fehérje nagy vonzódással kötődik bizonos kémiai csoportokhoz
-56.	hidrolízis
-57.	antitest
-58.	Immuno-fluoreszcencia
-59.	izotóp
-60.	szubsztrát
-61.	produktum
-62.	kulcs-zár modell
-63.	aktív hely
-64.	szubsztrát kötőhely
+56.	hidrolízis: * kémiai kötések vízmolekulák addíciója általi felhasadását jelenti*
+57.	antitest: *az immunrendszer termel annak érdekében, hogy felismerje és semlegesítse a szervezetbe került idegen anyagokat, mint például a baktériumokat vagy vírusokat* 
+58.	Immuno-fluoreszcencia: *estési technika, melynek célja az antigén-antitest kötődés létrejöttének megállapítása szövetekben*
+59.	izotóp: *azokat a nuklidokat nevezzük, amelyek atommagjai azonos számú protonból, de eltérő számú neutronból épülnek fel*
+60.	szubsztrát: *Az enzim által katalizált reakció kiindulási vegyületét szubsztrátnak nevezik.*
+61.	produktum: végtermék
+62.	kulcs-zár modell: *Az enzim aktív centruma, azaz a szubsztrátkötő hely a kapcsolat létrejötte előtt is már megfelel a szubsztrát alakjának, készen áll a szubsztrát fogadásához. A kapcsolódás során az enzim geometriája nem változik.*
+63.	aktív hely: enzimen ide köt a szubstrát
+64.	szubsztrát kötőhely: aktív hely az enzimen
 65.	domén
-66.	aerob
-67.	anaerob
-68.	eukarióta
-69.	prokarióta
-70.	proteomics
-71.	genomics
-72.	metabolomics
-73.	transcriptomics
-74.	SOV mérőszám
-75.	transzmembrán hélix
-76.	mitokondrium
-77.	ER- Endoplazmatikus Retikulum
-78.	diploid
-79.	haploid
-80.	mitózis
-81.	meiózis
-82.	amitózis
-84.	profázis
-85.	anafázis
-86.	telofázis
-87.	apoptózis
-88.	nekrózis
-89.	eukromatin
-90.	heterokromatin
-91.	hiszton
-93.	linker régió
-94.	centrális dogma
-95.	replikáció
-96.	transzláció 
-97.	transzkripció
-98.	retrovírus
-99.	prion
-100.	RNS vírus
-101.	sense kodon
-102.	nonsense kodon
-103.	stop kodon
-104.	cDNS
-105.	adenin
-106.	timin
-107.	citozin
-108.	uracil
-109.	guanin
-
+66.	aerob: O2-t használ
+67.	anaerob: O2-t termel
+68.	eukarióta: Van sejtmag
+69.	prokarióta: nincs sejtmag
+70.	proteomics: hol keletkeznek a fehérjék, térszerkezetük osztályozása, jóslása
+71.	genomics: génstruktórákkal foglalkozik
+72.	metabolomics: anyagcsere folymaatok viszgálata nagy molekuklákon
+73.	transcriptomics: *Definition. Transcriptomics is the study of the transcriptome—the complete set of RNA transcripts that are produced by the genome, under specific circumstances or in a specific cell*
+74.	SOV mérőszám: másodlagos struktórát mér, levon ha lyukat észlel
+75.	[transzmembrán hélix](https://github.com/gabboraron/bevezetes_a_bioinformatikaba#transzmembr%C3%A1n-h%C3%A9lixek)
+76.	mitokondrium: *A mitokondrium eukarióta sejtekben található, az energia előállításában és annak elraktározásában szerepet játszó sejtszervecske*
+77.	ER- Endoplazmatikus Retikulum: * szinte minden eukarióta sejt alkotója.*
+78.	diploid: Testi sejtek (diploid): 2N elemmel, 1 apai és egy anyai kromszómaszerelvénnyel; képesek osztódni, önmagukat duplikálni, 1 sejtből 4 sejt lesz
+79.	haploid: Ivarsejtek (haploid): 1N 1 kromoszómaszerelvény; felezik magukat 1 sejtből 2 sejt lesz
+80.	mitózis: számtartó osztódás;*A mitózis a sejtosztódás során kettéosztja a genetikai információt is.*
+81.	meiózis: számfelező osztódás
+82.	amitózis: csak egysejtűeknél
+84.	profázis: *Profázisban a kromatin magasan szervezett kromoszómákká kondenzálódik.*
+85.	anafázis: *A testvérkromatidokat összekötő fehérjék leválnak, poláros - mikrotubulusok ezzel a sejt tökéletesen ellentétes pólusába szorítják a centroszómákat és meghatározzák az új sejt sejtközpontjainak helyét.*
+86.	telofázis: *a kromoszómák despiralizációjával és kondenzációjával újra létrejön az egybefüggő kromatin*
+87.	apoptózis: programozott sejthalál - egy jel hazására pl égési sérülés történik.
+88.	nekrózis: nem programozott sejthalál
+89.	eukromatin: olyan kromatin ami *gazdag génekben*
+90.	heterokromatin: *a kromatin olyan típusa, mely nem aktív. A DNS-t körülvevő hiszton fehérjék szoros kapcsolata miatt a polimeráz (DNS-ről RNS átírást végző) enzim nem fér hozzá a DNS-hez*
+91.	hiszton: a kromatin legfőbb fehérjéi. erre tekerjük fel a DNS-t
+93.	[linker régió](http://chemotaxis.semmelweis.hu/CHTXhpg/CHTXeaPHARM/Sejtmag.pdf): két hiszton korong közti terület
+94.	centrális dogma: *DNS → DNS, DNS → RNS, RNS → RNS, mRNS → fehérje*
+95.	replikáció: DNS → DNS
+96.	transzláció: mRNS → fehérje
+97.	transzkripció: DNS → RNS *Arról a DNS szakaszról (génről) amelyről kifejeződésre kerül az ott tárolt információ, első lépésben egy mRNS- másolat készül – ez a folyamat a transzkripció. A DNS ugyebár kétszálú molekula, így mindig csak az egyik szálról fog másolat készülni, ezt nevezzük kódoló szálnak.*
+98.	retrovírus: RNS → DNS
+99.	prion:  fehérje → DNS
+100.	RNS vírus: RNS → RNS
+101.	sense kodon: értelmes kodonokból csak 61-et
+102.	nonsense kodon: *Nonsense mutations are changes in DNA sequence that introduce a premature stop codon*
+103.	stop kodon: 3  db nem értlemezhető kodon van : stop kodon
+104.	cDNS *Arról a DNS szakaszról (génről) amelyről kifejeződésre kerül az ott tárolt információ, első lépésben egy mRNS- másolat készül – ez a folyamat a transzkripció. A DNS ugyebár kétszálú molekula, így mindig csak az egyik szálról fog másolat készülni, ezt nevezzük kódoló szálnak.*
+105.	adenin: purin bázisú nukleinsav
+106.	timin: pirimidin bázisú nukleinsav
+107.	citozin: pirimidin bázisú nukleinsav 
+108.	uracil: pirimidin bázisú nukleinsav
+109.	guanin: purin bázisú nukleinsav
