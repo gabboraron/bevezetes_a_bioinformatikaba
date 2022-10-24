@@ -34,7 +34,7 @@ bioinformatikai versenyek: https://predictioncenter.org/casp15/index.cgi
 
 főbb részeik: sejtmag, golgi apparátus, mitokondruium, sejthártya, csilló, sejtburok
 
-***Fehérjék** azok amikből lehet építeni gépeket
+**Fehérjék** azok amikből lehet építeni gépeket
 
 **fehérjék szerep az élőlényekben:**
 - [enzimek](https://hu.wikipedia.org/wiki/Enzim)
@@ -248,7 +248,7 @@ makromolekula akalkja szerint:
   - hidrogénkötések
   - apoláris kötések
 
-## nukelinsavak
+## nukleinsavak
 - purin: adenin, guanin
 - pirimidin : citozin, uracil, timin
 - pentóz
@@ -533,6 +533,8 @@ DNS szerkezetei:
 
 A DNS-t hőmérséklet növeléssel tudjuk szétválasztani, ekkor kettéválik és szétbontható, vagy hozzá adható. A helikális szerkezet szemikonzervatív, ami miatt a szerkezet megduplázható. Ami miatt a 3' ->5' irányban olvasunk, de 5' -> 3' irányba épül be. A template és az új szál anti paralel lefutású lesz. Ekkor  egy primert kell betenni, amitől képes lesz az új lekötésre. A legvégén az indító primer leválik és beépülhet egy új nukleotid.
 
+[DNA animation](https://www.youtube.com/watch?v=7Hk9jct2ozY)
+
 [Teloméra](https://en.wikipedia.org/wiki/Telomere) a DNS két végén van, de ez fogy ahogy a DNS szál újra és újra osztódik. Ezek védik a DNS-t a sejt osztódásakor. 
 
 ![Telomere](https://www.frontiersin.org/files/Articles/630186/fgene-11-630186-HTML/image_m/fgene-11-630186-g001.jpg) ![Telomere](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41556-022-00842-x/MediaObjects/41556_2022_842_Fig1_HTML.png?as=webp)
@@ -572,6 +574,7 @@ http://eta.bibl.u-szeged.hu/5322/118/DNS%20hibajav%C3%ADt%C3%A1s_2020.pdf
 1. Feherjek - Altalanos
 Mondj el mindent a feherjekrol  amit csak tudsz (minimum szint)
 1. Feherjek szerepe az elolenyekben?
+
 2. Feherjek felepitoegysegei?
 3. Aminosavak altalanos szerkezeti keplete?
 4. Aminosavak kotodese?
@@ -602,61 +605,65 @@ Mondj el mindent a DNS -rol amit csak tudsz (minimum szint):
 Egyszeru kerdesek / Szotar
 valaszolj roviden (max. ket mondatban) mit takarnak az alabbi fogalmak:
 
-1.	enzim
-2.	szekvencia
-3.	feherje
-4.	nukleinsav
-5.	aminosav
-6.	nukleotid
-7.	sejtmag
-8.	kodon
-9.	aminosavsorrend
-10.	feherje elsodleges szerkezet
-11.	feherje masodlagos szerkezet
-12.	feherje harmadlagos szerkezet
-13.	feherje negyedleges szerkezet
-14.	nukleoszoma
-15.	bazis
-16.	peptidkotes
-17.	dipeptid
-18.	oligopeptid
-19.	genbank
-20.	genom
-21.	genom projekt
-22.	alfa-helix
-23.	beta-redo
-24.	kanyar-turn
-25.	ligand
-26.	kromatin
-27.	gén
-28.	kromoszóma
-29.	toxin
-30.	enzim
-31.	karboxil csoport
-32.	amino-csoport
-33.	alfa helyzetű szénatom
-34.	esszenciális aminosav
-35.	poláros
-36.	lúgos
-37.	savas
-38.	protein
-39.	proteid
-40.	hidrofil
-41.	globuláris
-42.	fibrilláris
-43.	antiparallel bétalemez
-44.	N-terminális
-45.	C-terminális
-46.	hidrofób
-47.	IUPAC kód
-48.	ASN.1
-49.	Fasta
-50.	PDB
-51.	gélelektroforézis
-52.	centrifugálás
-53.	kromatigráfia
+1.	enzim: *Az enzimek a biokémiai reakciók katalizátoraiként működnek, ami azt jelenti, hogy gyorsítják a reakciókat. Mindegyik enzim egy vagy több szubsztrátot ismer fel, vagyis azokat a molekulákat, melyek kiindulási vegyületként szolgálnak az enzimek által katalizált reakcióhoz. Különböző enzimek különböző típusú reakciókban vesznek részt, és lebonthatják, összekapcsolhatják vagy átrendezhetik szubsztrátjaikat.*
+2.	szekvencia: *az adeninnek, guaninnak, citozinnek és a timinnek a* sorozata. *A DNS szekvenciája határozza meg a sejtmagban, a plazmidokban, a mitokondriumban vagy a kloroplasztiszokban azt az örökletes genetikai információt, ami minden élő szervezet működésének alapprogramját adja*
+3.	feherje:  sejtmaggal vagy a nélkül létező lények <= prokarióták és eukkarióták
+4.	nukleinsav: 
+   - purin: adenin, guanin
+   - pirimidin : citozin, uracil, timin
+   - pentóz
+   - foszfátcsoport
+5.	aminosav: Az aminosavak a fehérjéket felépítő monomerek. Pontosabban egy fehérje egy vagy több lineáris aminosavláncból épül fel, melyek mindegyikét polipeptidnek nevezzük.* 
+6.	nukleotid: ez építi fel a DNS-t. *Egy nukelotid egy cukormolekulából (ez a dezoxiribóz), egy ahhoz kapcsolódó foszfát csoportból és egy nitrogéntartalmú szerves bázisból áll – ebből négyféle lehet: adenin (A), timin (T), guanin (G) és citozin (C).* 
+7.	sejtmag: *A DNS a sejten belül a sejtmagban helyezkedik el, mégpedig kromoszómák formájában, speciális fehérjemolekulákra felcsavarodva.*
+8.	kodon: * A DNS-láncon három egymást követő nukleotid (egy bázishármas, vagy “triplet”) jelent egy kódot – ezt a genetikában kodonnak nevezzük.*
+9.	aminosavsorrend: "aminosavval együtt hidrolízissel eltávolíható a lánctól"
+10.	[feherje szerkezet](https://github.com/gabboraron/bevezetes_a_bioinformatikaba#feh%C3%A9rje-szerkezet)
+14.	nukleoszoma: *gyöngyfüzér-struktúra, melyben a hiszton oktamerek fognak közre két fordulatnyi, 146 bázispárnyi DNS-t egymás után következve, gyöngyfüzérszerűen;*
+15.	bazis: *adenin (A), timin (T), guanin (G) és citozin (C)*
+16.	[peptidkotes](https://youtu.be/nv2kfBFkv4s)
+17.	dipeptid: A polipeptid egyik végén egy szabad aminocsoport található, így ezt a végét amino-terminálisnak (vagy más néven N-terminálisnak) nevezzük. A másik végét, melyen egy szabad karboxilcsoport található, karboxil-terminális (vagy másképpen C-terminális) láncvégnek hívjuk
+18.	oligopeptid: "consists of two to twenty amino acids and can include dipeptides, tripeptides, tetrapeptides, and pentapeptides"
+19.	genbank: file formátum
+      - header: medline, pubmed
+      - features: source, CDS, RNA
+      - szekvencia
+20.	genom: *Pontosabban, egy szervezet genomja egy kromoszómakészlet teljes DNS-szekvenciáját jelenti*
+21.	genom projekt: HUGO; https://www.internationalgenome.org/
+22.	alfa-helix: *Alfa-spirál a polipeptidláncok jobbkezes vagy spirális konformációja. Az alfa-hélixben minden gerincveljes NH-csoport hidrogénkötést ad a C = O gerincoszlop-csoporthoz, amelyet négy maradékba helyeznek előtte.*
+23.	beta-redo: *parallel vagy antiparallel szálak Hkötéssel*
+24.	kanyar-turn: másodlagos szerkezetben jelennek meg *béta/gamma*
+25.	ligand: *Ligands are ions or neutral molecules that bond to a central metal atom or ion.*
+26.	kromatin: a shiszton konrongokra fletekert DNS, két kromatin ad egy kromoszómát
+27.	gén: *A DNS azon szakaszát, mely egy tulajdonság kódolásáért felelős, génnek nevezzük.*
+28.	kromoszóma sejtosztódás pillaanatában két DNS szál, azaz kromatin
+29.	toxin: egy fajta fehérje
+30.	enzim: *Az enzimek a biokémiai reakciók katalizátoraiként működnek, ami azt jelenti, hogy gyorsítják a reakciókat*
+31.	karboxil csoport: `C = O`
+32.	amino-csoport: `H2N`
+33.	alfa helyzetű szénatom: *Az aminosavak közös szerkezeti jellemzője, hogy egy központi, más néven alfa (α) szénatomot tartalmaznak, amelyhez egy aminocsoport  egy karboxilcsoport és egy hidrogénatom kapcsolódik.*
+34.	esszenciális aminosav: *esszenciális aminosavakat a szervezet képtelen szintetizálni.*
+35.	poláros: nem egyneletes töltéseloszlású
+36.	lúgos: magas pH
+37.	savas: csökkenti a pH-t
+38.	protein:  egyszerú fehérjék aminosavakból
+39.	proteid:  összetett fehérjék
+40.	hidrofil: víz megkötő
+41.	globuláris: makromolekulák alakja, pl a fehrjéknél is, gömbszerű
+42.	fibrilláris: makromolekulák alakja, pl a fehrjéknél is, fonalszerű
+43.	[antiparallel bétalemez](https://univet.hu/files/courses/dt/7441/files/GenetikaBSC_09b_génexpresszió%20prokar.pdf) - *A DNS kötő részt a dimer egy Kötődés S-- egy bétalemez szerkezetű része alkotja (pl. met represszor)* 
+44.	N-terminális: *Az aminosavak szerkezetének következtében a polipeptidláncnak irányítottsága van, vagyis két vége, amelyek kémiailag különböznek egymástól. A polipeptid egyik végén egy szabad aminocsoport található, így ezt a végét amino-terminálisnak (vagy más néven N-terminálisnak) nevezzük.*
+45.	C-terminális: * másik végét, melyen egy szabad karboxilcsoport található, karboxil-terminális (vagy másképpen C-terminális) láncvégnek hívjuk.*
+46.	hidrofób: víztaszító
+47.	IUPAC kód: ternational union of pure and applied chemistry, információ kódolás
+48.	ASN.1: általános fileformátum, csak leíró, adathordozó, nem múveletvégző
+49.	Fasta: általános szekvencia leíró file + algoritmus
+50.	PDB: Protein Data Bank (PDB) archive of 3D structure data for large biological molecules 
+51.	gélelektroforézis: DNS szétválasztásra, [A gélelektroforézis alapelve, hogy a töltéssel rendelkező molekulák elektromos térben, össztöltésüknek megfelelően, az ellentétes töltésű elektróda felé vándorolnak.](https://hu.wikipedia.org/wiki/G%C3%A9lelektrofor%C3%A9zis)
+52.	centrifugálás: DNS szétválasztásra, hevítés után
+53.	kromatigráfia: anyagszétválasztási módszer
 54.	frakció
-55.	koötődési affinitás
+55.	kötődési affinitás: sok fehérje nagy vonzódással kötődik bizonos kémiai csoportokhoz
 56.	hidrolízis
 57.	antitest
 58.	Immuno-fluoreszcencia
@@ -684,7 +691,6 @@ valaszolj roviden (max. ket mondatban) mit takarnak az alabbi fogalmak:
 80.	mitózis
 81.	meiózis
 82.	amitózis
-83.	kromoszóma
 84.	profázis
 85.	anafázis
 86.	telofázis
@@ -693,7 +699,6 @@ valaszolj roviden (max. ket mondatban) mit takarnak az alabbi fogalmak:
 89.	eukromatin
 90.	heterokromatin
 91.	hiszton
-92.	nukleoszóma
 93.	linker régió
 94.	centrális dogma
 95.	replikáció
