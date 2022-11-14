@@ -569,7 +569,7 @@ Hibajavítások:
 bővebben:
 http://eta.bibl.u-szeged.hu/5322/118/DNS%20hibajav%C3%ADt%C3%A1s_2020.pdf
 
-# ZH Kerdesek
+## 7. EA -  ZH Kerdesek
 
 1. Feherjek - Altalanos
 - Mondj el mindent a feherjekrol  amit csak tudsz (minimum szint)
@@ -731,3 +731,59 @@ valaszolj roviden (max. ket mondatban) mit takarnak az alabbi fogalmak:
 107.	citozin: pirimidin bázisú nukleinsav 
 108.	uracil: pirimidin bázisú nukleinsav
 109.	guanin: purin bázisú nukleinsav
+
+## 8. EA
+*ism:* eukariótáknál replikációs buborékok
+
+### tRNS - szállító, transzfer RNS
+- átköti a nukleinsavakat és az aminosavaakat
+- ez mondja meg hogy mi alapján kódoljuk az RNS-t
+
+![tRNS](https://cms.sulinet.hu/get/d/b40a06b8-fd12-4d2f-8416-c692dc95e06c/1/5/b/Normal/biokem14b.jpg)
+
+A riboszómához köt. Riboszómában történik a fehérjeszintézis. DNS -> premessengerRNS -> mRNS -> fehérje
+
+A fehérjéket a sejtmagban nem hozzuk létre, mert ha hibás akkor veszélyes.
+
+cDNS - komplementer DNS, az mRNSről visszaít DNS.
+
+A cDNS nem tartalmaz intronokat, a slicing után vagyunk és mRNSből visszaírtuk DNSsé.
+DNSben kódolom aminosavak tudását, felépítését és ezt a fehérje olvassa ki. A sejtmagban heterogén nukleáris RNSként (hnRNS) marad tárolva az aktuálisan fel nem használt de lemásolt RNS. 
+
+### mRNS - messenger RNS
+Az első 30 hely után ad egy sapkát, és a végére egy farkat amivel véddi a sejtmagból távozó RNS-t.
+
+![splicing](https://upload.wikimedia.org/wikipedia/commons/3/37/Process_of_RNA_splicing.png)
+
+RNS - riboszomális RNS
+
+- hnRNS
+- snRNS
+
+szekvenciák egyezése: 
+- egyezés `:`
+- kémiai sajátossaág: `.`
+- rés `_` 
+
+pl: 
+```
+ALMA
+AALMA = 1 pont
+A_LMA = 4-1 pont
+```
+
+PAM mátrix
+- evolúciós időkkel és statisztikus analízissel megmondta, hogy mennyi idő alatt változik át 
+
+BLOSUM mátrix
+- adott százalékban hasonló
+- jobb mint a PAM mert azonos fehérje típusokból építjük fel a mátrixot
+
+szekvencia illesztési algoritmusok: 
+- Needleman & Wunsch
+- Smith & Waterman
+- heurisztikus
+- Blast
+- FASTA
+- Waterman & Eggert
+
