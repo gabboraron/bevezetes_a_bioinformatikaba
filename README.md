@@ -787,3 +787,64 @@ szekvencia illesztési algoritmusok:
 - FASTA
 - Waterman & Eggert
 
+## 9. EA
+bioinformatikai szoftverek/programnyelvek
+- [perl](https://strawberryperl.com/)
+  - [bioperl](https://www.oreilly.com/library/view/programming-perl-4th/9781449321451/): 
+    - `ppm-shell search bioperl install`
+    - `cpanm install Bio::Seq`
+- [biopython](https://biopython.org/)
+- moduláris, regexes
+
+### perl
+
+```Perl
+#!/usr/bin/perl-w
+
+$skalar = "almafa"
+@tomb = ('laci', 'teri', 'stb')
+$elso_elem = $tomb[0]
+$utolso_elem = $#tomb
+```
+
+functionök:
+
+```Perl
+sub azensubrutinom
+{
+    print"szubrutin vok!";return;
+}
+```
+
+```Perl
+subrutin_elem = $_[elemszam]
+```
+
+modul használata:
+
+```Perl
+use Bio::Seq:
+
+$x=1
+```
+
+használható:
+- Szekvenciák olvasása szabványos fileból, natív beolvasása.
+- szekvencia illesztés
+- blast report szövegbányászat
+- genomikai fák
+- regexek, regex fejelsztés
+
+```Perl
+#!/usr/bin/perl-w
+#megjegyzesek
+
+system("date"):
+chop() #mindig vág
+chomp() #csak új sor jelet vág
+open(in."<$input_file")||die"$0:canot open $input_file":
+```
+
+`use Bio::Tools::Sigcleave;` el lehet a szekvenciát futtatni megfelelő 
+
+adatok: https://www.expasy.org/
