@@ -801,10 +801,10 @@ bioinformatikai szoftverek/programnyelvek
 ```Perl
 #!/usr/bin/perl-w
 
-$skalar = "almafa"
-@tomb = ('laci', 'teri', 'stb')
-$elso_elem = $tomb[0]
-$utolso_elem = $#tomb
+$skalar = "almafa";
+@tomb = ('laci', 'teri', 'stb');
+$elso_elem = $tomb[0];
+$utolso_elem = $#tomb;
 ```
 
 functionök:
@@ -817,15 +817,15 @@ sub azensubrutinom
 ```
 
 ```Perl
-subrutin_elem = $_[elemszam]
+subrutin_elem = $_[elemszam];
 ```
 
 modul használata:
 
 ```Perl
-use Bio::Seq:
+use Bio::Seq;
 
-$x=1
+$x=1;
 ```
 
 használható:
@@ -839,12 +839,14 @@ használható:
 #!/usr/bin/perl-w
 #megjegyzesek
 
-system("date"):
-chop() #mindig vág
-chomp() #csak új sor jelet vág
-open(in."<$input_file")||die"$0:canot open $input_file":
+system("date");
+chop(); #mindig vág
+chomp(); #csak új sor jelet vág
+open(in."<$input_file")||die"$0:canot open $input_file";
 ```
 
 `use Bio::Tools::Sigcleave;` el lehet a szekvenciát futtatni megfelelő 
 
-adatok: https://www.expasy.org/
+- adatok: https://www.expasy.org/
+- bővebben a bioperlről: https://bioperl.org/howtos/Beginners_HOWTO.html
+- órai kódok: https://github.com/gabboraron/bevezetes_a_bioinformatikaba/tree/main/9ea
