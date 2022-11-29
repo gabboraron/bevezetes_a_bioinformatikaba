@@ -1,3 +1,4 @@
+installált csomagok:
 ```Perl
 perl ppm-shell search bioperl install
 cpanm install Bio::Seq
