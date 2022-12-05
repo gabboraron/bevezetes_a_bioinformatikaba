@@ -787,6 +787,10 @@ szekvencia illesztési algoritmusok:
 - FASTA
 - Waterman & Eggert
 
+***tRNS*** feladata a szállítás   
+
+***Aktivált tRNS:***Az aminosav kötő helyen megjelenik aminoacil-adenilát
+
 ## 9. EA
 bioinformatikai szoftverek/programnyelvek
 - [perl](https://strawberryperl.com/)
