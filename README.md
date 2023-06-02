@@ -480,6 +480,8 @@ ennek ellentéte:
 - Prionok: fehérje -> DNS felező részecske
 
 genetikai kód:
+*több: https://www.edx.org/course/genetics-part-1?utm_medium=partner-marketing&utm_source=email&utm_campaign=MITx&utm_content=mailchimp-allusermay2023-7.03.1x*
+
 - 3 db nukleinsav = 1 aminosav
 - 20 aminosavunk van de 4^3 = 64 aminosavat tudunk kódolni
 - de az értelmes kodonokból csak 61-et
